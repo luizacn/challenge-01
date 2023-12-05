@@ -1,5 +1,4 @@
-# challenges 01
- desafios para melhorar habilidades em html, ccs e javascript<br>
+desafios para melhorar habilidades em html, ccs e javascript<br>
 
  card qrcode
 
