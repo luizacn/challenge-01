@@ -1,0 +1,31 @@
+body {
+    height: 100vh;
+    background-color: hsl(212 45% 89%);
+    overflow: hidden;/*hide the sidebar */
+}
+
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    height: 500px;
+    width: 320px;
+    margin: 100px auto;
+    border-radius: 20px;
+}
+
+img {
+    height: 285px;
+    width: 285px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    font-size: 15px;
+    text-align: center;
+    color: rgb(148, 148, 169);
+}
