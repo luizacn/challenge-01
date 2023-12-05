@@ -7,6 +7,3 @@ desafios para melhorar habilidades em html, ccs e javascript<br>
 <img src = "qr-code-component-main/images/qrcde.png">
 
 
-
-
-<img src = "qr-code-component-main/images/home-page.png">
